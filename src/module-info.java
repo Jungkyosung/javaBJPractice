@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jksin
+ *
+ */
+module BJpractice {
+}
